@@ -171,8 +171,9 @@ bamCompare -b1 leaf_light.bam -b2 leaf_heavy.bam \
 ```
 
 ## Expected results
-This is an example result generated from the demo data. The upper track illustrates an gene model, the middle and lower tracks show the signal of MSFs (in red) and MRFs (in blue) in leaf and root, and significant MSF region, or ACRs, are detected and shown in orange segments.
-.<br>
+This is an example result generated from the demo data. The upper track illustrates an gene model, the middle and lower tracks show the signal of MSFs (in red) and MRFs (in blue) in leaf and root, and significant MSF region, or ACRs, are detected and shown in orange segments. <br>
+
+
 ![](graphs/igv_snapshot_labeled.jpg)
 
 
